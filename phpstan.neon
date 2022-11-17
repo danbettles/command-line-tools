@@ -1,0 +1,9 @@
+parameters:
+    level: max
+    paths:
+        - src
+        - tests
+#    ignoreErrors:
+#        -
+#            message: '#Call to an undefined method Miniblog\\Engine\\OutputHelper::create[A-Z]#'
+#            path: src/OutputHelper.php
